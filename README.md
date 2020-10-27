@@ -17,8 +17,8 @@ We were allowed to formulate our own question and we decided to study the possib
 
 The submissions consist of 3 documents: A project report, and Datafolio, and the code. 
 
-- The Project Reprot shows the rationale behind our analyses, our observations and conclusions.
 - The Datafolio summarises our finding in a visually impactful way
+- The Project Reprot shows the rationale behind our analyses, our observations and conclusions.
 - The code shows the precise content of our analysis. Of the 3 documents it is frankly the least important.
 
 
