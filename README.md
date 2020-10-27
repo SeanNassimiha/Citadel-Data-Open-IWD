@@ -21,4 +21,6 @@ The submissions consist of 3 documents: A project report, and Datafolio, and the
 - The Project Reprot shows the rationale behind our analyses, our observations and conclusions.
 - The code shows the precise content of our analysis. Of the 3 documents it is frankly the least important.
 
+## Datafolio
 
+![Datafolio](https://github.com/SeanNassimiha/Citadel-Data-Open-Investment-Without-Displacement/blob/main/Datafolio.png?raw=true)
