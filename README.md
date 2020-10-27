@@ -21,5 +21,4 @@ The submissions consist of 3 documents: A project report, and Datafolio, and the
 - The Datafolio summarises our finding in a visually impactful way
 - The code shows the precise content of our analysis. Of the 3 documents it is frankly the least important.
 
-![alt text](https://github.com/SeanNassimiha/Citadel-Data-Open-Investment-Without-Displacement/blob/main/Datafolio.pdf?raw=true)
 
