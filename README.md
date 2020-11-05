@@ -17,9 +17,9 @@ We were allowed to formulate our own question and we decided to study the possib
 
 The submissions consist of 3 documents: A project report, and Datafolio, and the code. 
 
-- The Datafolio summarises our finding in a visually impactful way
-- The Project Reprot shows the rationale behind our analyses, our observations and conclusions.
-- The code shows the precise content of our analysis. Of the 3 documents it is frankly the least important.
+- The [Datafolio](https://github.com/SeanNassimiha/Citadel-Data-Open-Investment-Without-Displacement/blob/main/Datafolio.png) summarises our finding in a visually impactful way
+- The [Project Report](https://github.com/SeanNassimiha/Citadel-Data-Open-Investment-Without-Displacement/blob/main/Report.pdf) shows the rationale behind our analyses, our observations and conclusions.
+- The [Code](https://github.com/SeanNassimiha/Citadel-Data-Open-Investment-Without-Displacement/blob/main/InvestmentWithoutDisplacement.ipynb) shows the precise content of our analysis. 
 
 ## Datafolio
 
